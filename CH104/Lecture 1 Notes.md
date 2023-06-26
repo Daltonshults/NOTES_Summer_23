@@ -52,7 +52,7 @@ Chemistry- The study of matter
 
 **Elements**- Cannot be separated into simpler substances even with a chemical reaction
 
-**Mixtures**- Can be separated by physical means
+**Mixtures**- Can be separated by physical means, made up of two or more substances
 
 **Homogeneous Mixtures**- Mixtures that have the same composition throughout
 * Salt water
@@ -66,3 +66,34 @@ Formulas- First letter capitalized and the second letter lower case
 
 Water is seen in all three states
 
+
+A mixture can be separated by a physical process
+* Like filtering
+* Distillation
+
+Separating a mixture
+* Can use chromatography
+
+### Physical Property of Matter
+* color
+* odor
+* melting point
+* boiling point
+* state at 25°
+* luster
+* conduction of electricity 
+* conduction of heat
+
+### Chemical Properties of Matter- How does it react?
+* Flammability
+* Toxicity
+* Reactivity w/ water
+
+
+### Change of State
+* **Melting**- from solid to liquid
+* **Freezing**- from liquid to solid
+* **Vaporization**- from liquid to gas
+* **Condensation**- from gas to liquid
+* **Sublimation**- from solid to gas
+* **Deposition**- from gas to solid

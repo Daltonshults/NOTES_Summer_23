@@ -24,6 +24,7 @@
 	* This is water freezing, or going from a liquid to a solid. This is a physical process describing the physical state
 
 6. Using the flow chart in the model on the previous page to help you, classify each of the following as either a mixture or pure substance. For each substance, tell whether it is an element or a compound. For each mixture, tell whether it is homogeneous or heterogeneous; then list two or more components of the mixture. 
+
 	* a lead weight 
 		* Pure Substance
 		* Element
@@ -40,9 +41,9 @@
 		* mixture
 		* homogeneous
 
-	* 14 karat gold ring
-		* Pure substance
-		* Element
+	* 14 karat gold ring- not pure
+		* mixture
+		* homogenous
 
 	* 24- karat gold coin
 		* Pure substance
@@ -58,9 +59,11 @@
 
 	* concrete
 		* Mixture
-		* homogeneous
+		* heterogeneous
+
 	* whole blood
-		* ???
+		* mixture
+		* homogenous
 
 	 * carbon dioxide
 		 * Pure substance
